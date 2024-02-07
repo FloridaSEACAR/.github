@@ -4,7 +4,6 @@
 
 The Statewide Ecosystem Assessment of Coastal and Aquatic Resources project was developed by the Florida Department of Environmental Protection's (DEP) [Office of Resilience and Coastal Protection (RCP)](https://floridadep.gov/orcp), through consultation with [Florida Coastal Management Program (FCMP)](https://floridadep.gov/fcmp) partner agencies, to enhance existing coastal and aquatic management efforts and address identified management needs. The project was designed to look at site-specific status and trends of the submerged resources within RCP managed areas to gain statewide perspective. Each of RCP's managed areas is unique. However, visualizing the state's estuarine managed areas as a whole and looking at the habitats that connect them allows us to build upon a common goal of preserving their scientific, economic, aesthetic and recreational values for the benefit of future generations.
 
-<br>
 
 ## Geographic Scope
 
@@ -12,7 +11,6 @@ RCP manages over 5 million acres of coastal and submerged lands across 34 of Flo
 
 The assessment is divided into four geographic regions (northwest, southwest, northeast, and southeast) based on RCP management boundaries. It encompasses RCP's 38 estuarine aquatic preserves and three national estuarine research reserves, the Coral Reef Conservation Program, and the Florida Keys National Marine Sanctuary, which are managed in partnership with the National Oceanic and Atmospheric Administration. See the \@ref(StateOverview) section for additional details.
 
-<br>
 
 ## Why is SEACAR Important?
 
@@ -36,7 +34,6 @@ Florida has become a data-rich state due to researchers and managers providing a
 
 The SEACAR Data Discovery Interface provides standardized data for submerged and coastal habitats in one place and includes a mapping feature to allow users to visualize data and overlay monitoring sites to assess data gaps, opportunities and partnerships.
 
-<br>
 
 ## Funding
 
@@ -49,13 +46,11 @@ The RCP manages a statewide network of marine protected areas encompassing over 
 
 The statewide network of 42 aquatic preserves, three national estuarine research reserves (NERRs), the Florida Keys National Marine Sanctuary (FKNMS) and Florida's Coral Reef Conservation Program (CRCP) are managed to preserve and protect the scientific, economic, aesthetic and recreational values associated with the state's submerged resources for the benefit of future generations.
 
-<br>
 
 ## National Estuarine Research Reserve System
 
 Florida's NERRs are part of the National Estuarine Research Reserve System, which encompasses a nationwide network of 30 coastal sites spanning 1.3 million acres. Designated to protect and study estuarine systems, management of the research reserves focuses on four primary components: 1) stewardship, 2) research, 3) training, and 4) education. The NERRS are cooperatively managed by the National Oceanic and Atmospheric Administration (NOAA) and the coastal states. Established through the Coastal Zone Management Act, NERRs are managed by a lead agency or university with input from local partners. NOAA provides funding and guidance.
 
-<br>
 
 ## Aquatic Preserves
 
@@ -63,7 +58,6 @@ Aquatic preserves are state-owned sovereign submerged lands in areas that have b
 
 The first aquatic preserve, Estero Bay, was established in Southwest Florida in 1966. In 1975, the Florida Aquatic Preserve Act was passed, and the existing preserves were brought under a standard set of management criteria. Today, Florida has 42 aquatic preserves, encompassing over 5.2 million acres. The most recent designation was the Nature Coast Aquatic Preserve in 2020.
 
-<br>
 
 ## Coral Reef Conservation Program
 
@@ -71,7 +65,6 @@ The Coral Reef Conservation Program coordinates research and monitoring along th
 
 In 2018, House Bill 53 passed, establishing and protecting the Coral Reef Ecosystem Conservation Area (ECA). The ECA includes the sovereign submerged lands and state waters offshore of Martin, Palm Beach, Broward and Miami-Dade counties from the northern boundary of Biscayne National Park to the St. Lucie Inlet.
 
-<br>
 
 ## Florida Keys National Marine Sanctuary
 
@@ -79,7 +72,6 @@ The Florida Keys National Marine Sanctuary is one of 15 Marine Protected Areas t
 
 Designated in 1990, the FKNMS is administered by NOAA and is jointly managed with the state of Florida. The sanctuary is managed to encourage recreational activities such as diving, swimming, snorkeling and fishing while reducing user conflict and protecting cultural and natural resources that include shipwrecks, a coral barrier reef system, seagrass beds, mangroves and associated marine life.
 
-<br>
 
 ## Office of Resilience and Coastal Protection Regions
 

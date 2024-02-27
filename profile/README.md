@@ -33,5 +33,6 @@ The SEACAR Data Discovery Interface provides standardized data for submerged and
 SEACAR is funded by a grant provided through the Florida Coastal Management Program, under the [Coastal Zone Management Act of 1972](https://coast.noaa.gov/czm/act/), as amended, National Oceanic and Atmospheric Administration.
 
 The Office of Resilience and Coastal Protection oversees a total of 45 managed areas around the state that include a wide variety of marine, estuarine, aquatic, and upland habitats:
-
-<img src="ORCP_AP_Map_forReport.png" width=50% height=50%>
+<p align="center">
+    <img src="ORCP_AP_Map_forReport.png" width=50% height=50%>
+</p>

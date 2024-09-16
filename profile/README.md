@@ -27,7 +27,6 @@ Florida has become a data-rich state due to researchers and managers providing a
 
 The SEACAR Data Discovery Interface provides standardized data for submerged and coastal habitats in one place and includes a mapping feature to allow users to visualize data and overlay monitoring sites to assess data gaps, opportunities and partnerships.
 
-
 ## Funding
 
 SEACAR is funded by a grant provided through the Florida Coastal Management Program, under the [Coastal Zone Management Act of 1972](https://coast.noaa.gov/czm/act/), as amended, National Oceanic and Atmospheric Administration.
@@ -36,3 +35,16 @@ The Office of Resilience and Coastal Protection oversees a total of 45 managed a
 <p align="center">
     <img src="..\ORCP_AP_Map_forReport.png" width=50% height=50%>
 </p>
+
+## Quick Links
+- [SEACAR Data Discovery Interface](https://data.florida-seacar.org/)
+
+### Dashboards
+- [Continuous WQ Dashboard](https://floridaseacar.shinyapps.io/continuous_wq/)
+- [SEACAR Habitats Dashboard](https://floridaseacar.shinyapps.io/seacar_dashboard/)
+- [Big Bend Seagrasses Aquatic Preserve Dashboard](https://floridaseacar.shinyapps.io/bbsap_dashboard/)
+
+### SEACAR Trend Analyses
+- [RCP Managed Area Reports](https://floridaseacar.github.io/SEACAR_Trend_Analyses/MA%20Report%20Generation/)
+- [Big Bend Seagrasses Aquatic Preserve Custom Report](https://github.com/FloridaSEACAR/SEACAR_Trend_Analyses/blob/main/MA%20Report%20Generation/Custom%20Reports/BBSAP/output/BBSAP_report_by_system_20240826.pdf)
+- [Water Column Reports](https://github.com/FloridaSEACAR/SEACAR_Trend_Analyses/tree/main/MA%20Report%20Generation/Atlas%20Water%20Column%20Report/output/Reports)

@@ -47,5 +47,5 @@ The Office of Resilience and Coastal Protection oversees a total of 45 managed a
 ### SEACAR Trend Analyses
 - [Draft RCP Managed Area Reports](https://floridaseacar.github.io/SEACAR_Trend_Analyses/MA%20Report%20Generation/)
 - [Draft Big Bend Seagrasses Aquatic Preserve Custom Report](https://github.com/FloridaSEACAR/SEACAR_Trend_Analyses/blob/main/MA%20Report%20Generation/Custom%20Reports/BBSAP/output/BBSAP_report_20241217.pdf)
-- [Draft Water Column Reports](https://github.com/FloridaSEACAR/SEACAR_Trend_Analyses/tree/main/MA%20Report%20Generation/Atlas%20Water%20Column%20Report/output/Reports)
+- [Draft Water Column Reports]([https://github.com/FloridaSEACAR/SEACAR_Trend_Analyses/tree/main/MA%20Report%20Generation/Atlas%20Water%20Column%20Report/output/Reports](https://github.com/FloridaSEACAR/SEACAR_Trend_Analyses/tree/main/WQ_Cont_Discrete/output/Reports))
 - [Draft Submerged Aquatic Vegetation - Water Column Analysis Report](https://github.com/FloridaSEACAR/SEACAR_Trend_Analyses/blob/main/SAV_WC_Analysis/DRAFT_SAV_WC_Report_2024-11-20.pdf)

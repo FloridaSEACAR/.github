@@ -40,8 +40,8 @@ The Office of Resilience and Coastal Protection oversees a total of 45 managed a
 - [SEACAR Data Discovery Interface](https://data.florida-seacar.org/)
 
 ### Dashboards
-- [Continuous WQ Dashboard](https://floridaseacar.shinyapps.io/continuous_wq/)
-- [SEACAR Habitats Dashboard](https://floridaseacar.shinyapps.io/seacar_dashboard/)
+- [Continuous WQ Dashboard](https://floridaapdata.shinyapps.io/continuous_wq/)
+- [SEACAR Habitats Dashboard](https://floridaapdata.shinyapps.io/SEACAR_Dashboard/)
 - [Big Bend Seagrasses Aquatic Preserve Dashboard](https://floridaseacar.shinyapps.io/bbsap_dashboard/)
 
 ### SEACAR Trend Analyses

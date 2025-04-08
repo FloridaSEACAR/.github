@@ -33,7 +33,7 @@ SEACAR is funded by a grant provided through the Florida Coastal Management Prog
 
 The Office of Resilience and Coastal Protection oversees a total of 45 managed areas around the state that include a wide variety of marine, estuarine, aquatic, and upland habitats:
 <p align="center">
-    <img src="..\RCP-AP 2024 MAP_LIST_KEY_FINAL.png" width=50% height=50%>
+    <img src="..\RCP-AP 2024 MAP_LIST_KEY_FINAL.png" width=70% height=70%>
 </p>
 
 ## Quick Links
